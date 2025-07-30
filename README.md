@@ -46,7 +46,7 @@ ten minutes to one
 twenty minutes past twelve
 ```
 
-### To run unit test
+### To run unit tests
 ```
 python -m unittest discover -s tests
 ```

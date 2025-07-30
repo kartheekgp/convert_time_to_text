@@ -1,9 +1,5 @@
 # Time to text
 
-
-Command to run unit tests from project directory:
-# python -m unittest discover -s tests
-
 ## Installation
 
 ```
